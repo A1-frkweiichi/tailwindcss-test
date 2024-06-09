@@ -1,4 +1,4 @@
 @import "tailwindcss/base";
+@import "./daisyui.css";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
-@import "./daisyui.css";
